@@ -7,4 +7,5 @@
 
 * Overview: https://minitorch.github.io/module0.html
 
-![Screenshot 2024-04-05 170854](https://github.com/minitorch/minitorch-module-0-sriharsha729/assets/147859854/d1c64348-7005-4fd0-a193-c10f801d7750)
+![Screenshot (348)](https://github.com/minitorch/minitorch-module-0-sriharsha729/assets/147859854/e1b2b0d0-9b27-44e8-8a6e-78040cd3b2e3)
+
